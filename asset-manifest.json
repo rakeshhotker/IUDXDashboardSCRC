@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/IUDXDashboardSCRC/static/css/main.d03c02c5.css",
+    "main.js": "/github.io/IUDXDashboardSCRC/static/js/main.fcfe3439.js",
+    "static/media/SMART_CITY_LOGO.png": "/github.io/IUDXDashboardSCRC/static/media/SMART_CITY_LOGO.8f8e3abe7957eafb9ff6.png",
+    "static/media/iiithLogo.png": "/github.io/IUDXDashboardSCRC/static/media/iiithLogo.8ea282e7b154b7712448.png",
+    "index.html": "/github.io/IUDXDashboardSCRC/index.html",
+    "main.d03c02c5.css.map": "/github.io/IUDXDashboardSCRC/static/css/main.d03c02c5.css.map",
+    "main.fcfe3439.js.map": "/github.io/IUDXDashboardSCRC/static/js/main.fcfe3439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d03c02c5.css",
+    "static/js/main.fcfe3439.js"
+  ]
+}
