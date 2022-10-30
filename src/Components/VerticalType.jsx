@@ -4,10 +4,10 @@ function VerticalType({ verticalName, setCurrentVertical, verticalType }) {
   return (
     <>
       <button
-        className={`hover:bg-blue-500  font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded ${
+        className={`hover:bg-blue-500  background-transparent font-semibold hover:text-white py-2 px-4 border border-blue-500 hover:border-transparent rounded ${
           verticalName === verticalType
-            ? "bg-blue-500 text-amber-500"
-            : "bg-transparent text-green-700"
+            ? "text-amber-500"
+            : "text-green-700"
         }`}
         onClick={(e) => setCurrentVertical(e.target.value)}
         value={verticalName}
